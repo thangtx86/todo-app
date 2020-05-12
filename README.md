@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+### `Add Todo`
+
+![alt Add Todo](https://github.com/thang86/todo-app/blob/master/sample/todo-add.PNG)
+
+### `Update Todo`
+
+![alt Update Todo](https://github.com/thang86/todo-app/blob/master/sample/update-todo.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
