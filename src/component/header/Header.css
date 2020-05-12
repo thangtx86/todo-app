@@ -1,0 +1,31 @@
+.header-todo {
+  display: flex;
+  position: relative;
+  text-align: left;
+  padding-top: 28px;
+  padding-bottom: 20px;
+  background-color: #20232a;
+}
+.header-todo > a:first-child {
+  margin-left: 36px;
+}
+
+.title-app {
+  display: block;
+  font-weight: 500;
+  margin-left: 24px;
+  font-size: 36px;
+  color: #fff;
+  line-height: 18px;
+  margin: 0;
+}
+
+.version-app {
+  margin-top: 8px;
+  font-size: 14px;
+  margin-left: 14px;
+  text-decoration: none;
+  font-weight: 400;
+  color: #fff;
+  transition: color 0.15s ease-out;
+}
